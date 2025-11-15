@@ -97,7 +97,7 @@ st.markdown(
     }
     </style>
     <div class="footer">
-        Made by Subham Mohanty | Powered by Streamlit
+        Made by Shivin | Powered by Streamlit
     </div>
     """,
     unsafe_allow_html=True
